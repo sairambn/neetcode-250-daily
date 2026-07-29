@@ -2,7 +2,7 @@
 
 **One problem a day** from the complete [NeetCode 250](https://neetcode.io/practice) list.
 
-A structured way to grind through all 250 curated LeetCode problems for coding interview prep.
+A structured way to grind through all 250 curated LeetCode problems for coding interview prep (including Google-level preparation).
 
 ## How it works
 
@@ -54,10 +54,11 @@ Each daily issue contains:
 
 ## Getting Started
 
-1. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
-2. Solve the problem of the day
-3. Comment your approach or solution on the issue
-4. Star this repo if it helps you stay consistent
+1. First master the basics: [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
+2. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
+3. Solve the problem of the day
+4. Comment your approach or solution on the issue
+5. Star this repo if it helps you stay consistent
 
 ## Full Problem List
 
