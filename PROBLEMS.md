@@ -2,7 +2,7 @@
 
 Problems are listed in the recommended NeetCode 250 order.
 
-## Arrays & Hashing (22)
+## Arrays and Hashing (22)
 
 1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) - Easy
 2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Easy
@@ -133,10 +133,8 @@ Problems are listed in the recommended NeetCode 250 order.
 109. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) - Hard
 110. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Hard
 
-> Full list continues through Heap, Backtracking, Tries, Graphs, Advanced Graphs, DP, Greedy, Intervals, Math & Geometry, and Bit Manipulation (problems 111–250).
->
-> See the official list: https://neetcode.io/practice
+Full list continues through Heap, Backtracking, Tries, Graphs, Advanced Graphs, DP, Greedy, Intervals, Math and Geometry, and Bit Manipulation (problems 111-250).
 
----
+See the official list: https://neetcode.io/practice
 
-**Tip:** Work in order for the best learning progression (fundamentals → advanced patterns).
+Tip: Work in order for the best learning progression (fundamentals to advanced patterns).
