@@ -1,4 +1,4 @@
-# NeetCode 250 Daily 🚀
+# NeetCode 250 Daily
 
 **One problem a day** from the complete [NeetCode 250](https://neetcode.io/practice) list.
 
@@ -11,19 +11,19 @@ A structured way to grind through all 250 curated LeetCode problems for coding i
 - Close the issue when done.
 - Track progress with the checklist below / issues.
 
-**Current streak goal:** 250 days → Complete NeetCode 250
+**Current streak goal:** 250 days to complete NeetCode 250
 
 ## Progress
 
-- **Day 1** — Posted today
+- **Day 1** - Posted today
 - Total problems: **250**
-- Categories: Arrays & Hashing → Bit Manipulation
+- Categories: Arrays and Hashing to Bit Manipulation
 
 ## Categories Overview
 
 | Category | Count |
 |----------|-------|
-| Arrays & Hashing | 22 |
+| Arrays and Hashing | 22 |
 | Two Pointers | 13 |
 | Sliding Window | 9 |
 | Stack | 14 |
@@ -39,7 +39,7 @@ A structured way to grind through all 250 curated LeetCode problems for coding i
 | 2-D Dynamic Programming | 16 |
 | Greedy | 14 |
 | Intervals | 7 |
-| Math & Geometry | 13 |
+| Math and Geometry | 13 |
 | Bit Manipulation | 10 |
 | **Total** | **250** |
 
@@ -57,12 +57,16 @@ Each daily issue contains:
 1. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
 2. Solve the problem of the day
 3. Comment your approach or solution on the issue
-4. Star ⭐ this repo if it helps you stay consistent!
+4. Star this repo if it helps you stay consistent
 
 ## Full Problem List
 
 See [PROBLEMS.md](./PROBLEMS.md) for the complete ordered list.
 
+## Solutions
+
+Reference solutions (Python and Java) are stored under the `solutions/` folder.
+
 ---
 
-*Based on the official NeetCode 250 list. Happy grinding! 💪*
+Based on the official NeetCode 250 list.
