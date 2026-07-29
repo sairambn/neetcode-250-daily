@@ -65,8 +65,6 @@ See [PROBLEMS.md](./PROBLEMS.md) for the complete ordered list.
 
 ## Solutions
 
-Reference solutions (Python and Java) are stored under the `solutions/` folder.
-
----
+Reference solutions (Python, Java, C++) are stored under the `solutions/` folder.
 
 Based on the official NeetCode 250 list.
