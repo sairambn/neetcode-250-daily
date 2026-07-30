@@ -1,25 +1,39 @@
+<div align="center">
+
 # NeetCode 250 Daily
 
-**One problem a day** from the complete [NeetCode 250](https://neetcode.io/practice) list.
+**One problem a day** until the full NeetCode 250 list is done.
 
-A structured way to grind through all 250 curated LeetCode problems for coding interview prep (including Google-level preparation).
+Structured practice for coding interviews (including Google-level prep).
+
+[![Problems](https://img.shields.io/badge/Problems-250-blue?style=for-the-badge)](./PROBLEMS.md)
+[![Language](https://img.shields.io/badge/Solutions-Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
+[![Progress](https://img.shields.io/badge/Day-1%20%2F%20250-orange?style=for-the-badge)](https://github.com/sairambn/neetcode-250-daily/issues)
+
+</div>
+
+---
 
 ## How it works
 
-- Every day a new **GitHub Issue** is opened with the next problem from the NeetCode 250 list.
-- Solve it, post your solution (any language) as a comment or PR.
-- Close the issue when done.
-- Track progress with the checklist below / issues.
+1. A new **GitHub Issue** is opened every day with the next problem.
+2. Solve it on LeetCode.
+3. (Optional) Drop your solution or notes as a comment or PR.
+4. Close the issue when done.
 
-**Current streak goal:** 250 days to complete NeetCode 250
+Goal: finish all 250 problems with consistent daily practice.
 
-## Progress
+## Current progress
 
-- **Day 1** - Posted today
-- Total problems: **250**
-- Categories: Arrays and Hashing to Bit Manipulation
+| Metric | Value |
+|--------|-------|
+| Day | 1 |
+| Problems completed | 1 / 250 |
+| Categories covered | Arrays and Hashing |
 
-## Categories Overview
+Reference solutions live in [`solutions/`](./solutions).
+
+## Categories
 
 | Category | Count |
 |----------|-------|
@@ -43,29 +57,34 @@ A structured way to grind through all 250 curated LeetCode problems for coding i
 | Bit Manipulation | 10 |
 | **Total** | **250** |
 
-## Daily Issue Format
+## Daily issue format
 
-Each daily issue contains:
+Every issue includes:
+
 - Problem name + difficulty
 - Category
-- Direct LeetCode link
-- NeetCode video/solution link (when available)
+- LeetCode link
+- NeetCode video link (when available)
 - Space for your notes / solution
 
-## Getting Started
+## Getting started
 
-1. First master the basics: [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
+1. Warm up with the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
 2. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
 3. Solve the problem of the day
-4. Comment your approach or solution on the issue
-5. Star this repo if it helps you stay consistent
+4. Comment your approach on the issue (optional)
+5. Star the repo if it helps you stay consistent
 
-## Full Problem List
+## Full list
 
 See [PROBLEMS.md](./PROBLEMS.md) for the complete ordered list.
 
 ## Solutions
 
-Reference solutions (Python, Java, C++) are stored under the `solutions/` folder.
+Reference solutions (Python, Java, C++) are under [`solutions/`](./solutions).
 
-Based on the official NeetCode 250 list.
+Based on the official [NeetCode 250](https://neetcode.io/practice) list.
+
+---
+
+Maintained by [@sairambn](https://github.com/sairambn)
