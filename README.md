@@ -4,7 +4,7 @@
 
 **One problem a day** until the full NeetCode 250 list is done.
 
-Structured practice for coding interviews (including Google-level prep).
+Structured practice for coding interviews.
 
 [![Problems](https://img.shields.io/badge/Problems-250-blue?style=for-the-badge)](./PROBLEMS.md)
 [![Language](https://img.shields.io/badge/Solutions-Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
@@ -18,10 +18,10 @@ Structured practice for coding interviews (including Google-level prep).
 
 1. A new **GitHub Issue** is opened every day with the next problem.
 2. Solve it on LeetCode.
-3. (Optional) Drop your solution or notes as a comment or PR.
+3. Optional: add your solution or notes as a comment or PR.
 4. Close the issue when done.
 
-Goal: finish all 250 problems with consistent daily practice.
+Goal: finish all 250 with consistent daily practice.
 
 ## Current progress
 
@@ -65,7 +65,7 @@ Every issue includes:
 - Category
 - LeetCode link
 - NeetCode video link (when available)
-- Space for your notes / solution
+- Space for notes / solution
 
 ## Getting started
 
