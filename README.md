@@ -8,7 +8,7 @@ Structured practice for coding interviews — consistency over intensity.
 
 [![Problems](https://img.shields.io/badge/Problems-250-blue?style=for-the-badge)](./PROBLEMS.md)
 [![Language](https://img.shields.io/badge/Solutions-Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
-[![Progress](https://img.shields.io/badge/Day-10%20%2F%20250-orange?style=for-the-badge)](https://github.com/sairambn/neetcode-250-daily/issues)
+[![Progress](https://img.shields.io/badge/Day-100%20%2F%20250-orange?style=for-the-badge)](https://github.com/sairambn/neetcode-250-daily/issues)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </div>
@@ -43,11 +43,13 @@ Goal: finish all **250** with consistent daily practice.
 
 | Metric | Value |
 |--------|-------|
-| Day | 10 |
-| Problems completed | 10 / 250 |
-| Categories covered | Arrays and Hashing |
+| Day | 100 |
+| Problems completed | 33+ / 250 |
+| Categories covered | Arrays and Hashing, Two Pointers, Trees |
 
 Reference solutions live in [`solutions/`](./solutions).
+
+All tracked day issues have completed checklists (no unchecked items).
 
 ---
 
