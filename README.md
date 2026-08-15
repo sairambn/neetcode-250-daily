@@ -2,13 +2,12 @@
 
 # NeetCode 250 Daily
 
-**One problem a day** until the full NeetCode 250 list is done.
+**One problem a day** until the full list is done.
 
-Structured practice for coding interviews — consistency over intensity.
+Structured interview preparation — consistency over intensity.
 
-[![Problems](https://img.shields.io/badge/Problems-250-blue?style=for-the-badge)](./PROBLEMS.md)
-[![Language](https://img.shields.io/badge/Solutions-Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
-[![Progress](https://img.shields.io/badge/Day-100%20%2F%20250-orange?style=for-the-badge)](https://github.com/sairambn/neetcode-250-daily/issues)
+[![Progress](https://img.shields.io/badge/Completed-33%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
+[![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </div>
@@ -17,11 +16,11 @@ Structured practice for coding interviews — consistency over intensity.
 
 ## Why this exists
 
-Interview prep fails when it is random. This repo turns the official [NeetCode 250](https://neetcode.io/practice) list into a **daily system**:
+Random LeetCode practice fails. This repository turns the official [NeetCode 250](https://neetcode.io/practice) into a **daily system**:
 
-1. One focused problem per day
-2. Clear category progression
-3. Optional reference solutions (Python · Java · C++)
+1. One focused problem per day  
+2. Clear category progression  
+3. Reference solutions in multiple languages  
 4. Public accountability via GitHub Issues
 
 ---
@@ -30,30 +29,26 @@ Interview prep fails when it is random. This repo turns the official [NeetCode 2
 
 | Step | Action |
 |------|--------|
-| 1 | A new **GitHub Issue** opens with the next problem |
+| 1 | New GitHub Issue with the next problem |
 | 2 | Solve it on LeetCode |
-| 3 | Optional: post your approach or PR a solution |
+| 3 | (Optional) Post approach or open a PR |
 | 4 | Close the issue when done |
 
-Goal: finish all **250** with consistent daily practice.
+Goal → finish all **250** problems with consistent daily practice.
 
 ---
 
-## Current progress
+## Progress
 
 | Metric | Value |
 |--------|-------|
-| Day | 100 |
-| Problems completed | 33+ / 250 |
-| Categories covered | Arrays and Hashing, Two Pointers, Trees |
-
-Reference solutions live in [`solutions/`](./solutions).
-
-All tracked day issues have completed checklists (no unchecked items).
+| Problems solved | 33+ / 250 |
+| Categories covered | Arrays & Hashing · Two Pointers · Trees |
+| Solutions | [solutions/](./solutions) |
 
 ---
 
-## Categories
+## Categories (Full NeetCode 250)
 
 | Category | Count |
 |----------|-------|
@@ -79,42 +74,19 @@ All tracked day issues have completed checklists (no unchecked items).
 
 ---
 
-## Daily issue format
-
-Every issue includes:
-
-- Problem name + difficulty
-- Category
-- LeetCode link
-- NeetCode video link (when available)
-- Space for notes / solution
-
----
-
 ## Getting started
 
-1. Warm up with the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
+1. Review basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
 2. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
 3. Solve the problem of the day
-4. Comment your approach on the issue (optional)
-5. Star the repo if it helps you stay consistent
+4. Optionally comment your approach on the issue
 
----
-
-## Full list
-
-See [PROBLEMS.md](./PROBLEMS.md) for the complete ordered list.
-
-## Solutions
-
-Reference solutions (Python, Java, C++) are under [`solutions/`](./solutions).
-
-Based on the official [NeetCode 250](https://neetcode.io/practice) list.
+Full ordered list → [PROBLEMS.md](./PROBLEMS.md)
 
 ---
 
 ## License
 
-[MIT](./LICENSE) — free to use and learn from.
+[MIT](./LICENSE)
 
-Maintained by [@sairambn](https://github.com/sairambn) · Part of the **SR** practice system
+Maintained by [@sairambn](https://github.com/sairambn)
