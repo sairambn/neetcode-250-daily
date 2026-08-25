@@ -8,7 +8,6 @@ Structured DSA and coding interview preparation. Consistency over intensity.
 
 [![Progress](https://img.shields.io/badge/Completed-33%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
 [![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-success?style=for-the-badge)](./solutions)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </div>
 
@@ -103,9 +102,5 @@ Full ordered problem list → [PROBLEMS.md](./PROBLEMS.md)
 Whether you are preparing for software engineer interviews at Google, Amazon, Meta, Microsoft, or any product based company, this daily NeetCode 250 practice plan gives you a clear path.
 
 ---
-
-## License
-
-[MIT](./LICENSE)
 
 Maintained by [@sairambn](https://github.com/sairambn)
