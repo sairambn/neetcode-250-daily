@@ -49,6 +49,7 @@ Goal: finish all **250** NeetCode problems with steady daily practice.
 | Categories covered | Arrays & Hashing · Two Pointers · Trees |
 | Solutions available | [solutions/](./solutions) |
 | Languages | Python · Java · C++ |
+| Last updated | August 25, 2026 |
 
 Every solution folder contains clean, readable code that matches LeetCode style.
 
