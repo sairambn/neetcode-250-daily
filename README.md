@@ -1,57 +1,64 @@
 <div align="center">
 
-# NeetCode 250 Daily
+# NeetCode 250 Daily Practice
 
-**One problem a day** until the full list is done.
+**One problem a day** until the complete NeetCode 250 list is finished.
 
-Structured interview preparation — consistency over intensity.
+Structured DSA and coding interview preparation. Consistency over intensity.
 
 [![Progress](https://img.shields.io/badge/Completed-33%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
-[![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C++-success?style=for-the-badge)](./solutions)
+[![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-success?style=for-the-badge)](./solutions)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </div>
 
 ---
 
-## Why this exists
+## What this repository is
 
-Random LeetCode practice fails. This repository turns the official [NeetCode 250](https://neetcode.io/practice) into a **daily system**:
+This is a complete daily practice system for the official [NeetCode 250](https://neetcode.io/practice) problem list. It helps you build strong Data Structures and Algorithms skills for coding interviews through consistent daily practice.
 
-1. One focused problem per day  
-2. Clear category progression  
-3. Reference solutions in multiple languages  
-4. Public accountability via GitHub Issues
+Instead of random LeetCode grinding, you get:
+
+1. One focused problem every day
+2. Clear category progression from basics to advanced
+3. Clean reference solutions in Python, Java, and C++
+4. Public accountability through GitHub Issues
+
+Perfect for beginners starting DSA, intermediate learners preparing for FAANG style interviews, and anyone who wants a structured NeetCode 250 roadmap.
 
 ---
 
-## How it works
+## How the daily system works
 
 | Step | Action |
 |------|--------|
-| 1 | New GitHub Issue with the next problem |
+| 1 | Open a new GitHub Issue with the next problem |
 | 2 | Solve it on LeetCode |
-| 3 | (Optional) Post approach or open a PR |
+| 3 | (Optional) Share your approach or open a PR |
 | 4 | Close the issue when done |
 
-Goal → finish all **250** problems with consistent daily practice.
+Goal: finish all **250** NeetCode problems with steady daily practice.
 
 ---
 
-## Progress
+## Current Progress
 
 | Metric | Value |
 |--------|-------|
 | Problems solved | 33+ / 250 |
 | Categories covered | Arrays & Hashing · Two Pointers · Trees |
-| Solutions | [solutions/](./solutions) |
+| Solutions available | [solutions/](./solutions) |
+| Languages | Python · Java · C++ |
+
+Every solution folder contains clean, readable code that matches LeetCode style.
 
 ---
 
-## Categories (Full NeetCode 250)
+## Full NeetCode 250 Categories
 
-| Category | Count |
-|----------|-------|
+| Category | Problems |
+|----------|----------|
 | Arrays and Hashing | 22 |
 | Two Pointers | 13 |
 | Sliding Window | 9 |
@@ -74,14 +81,26 @@ Goal → finish all **250** problems with consistent daily practice.
 
 ---
 
-## Getting started
+## Getting started with NeetCode 250
 
-1. Review basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
-2. Watch the [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
-3. Solve the problem of the day
-4. Optionally comment your approach on the issue
+1. Review the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
+2. Watch the official [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
+3. Pick the next problem from the ordered list
+4. Solve it, then check the reference solutions in this repo
 
-Full ordered list → [PROBLEMS.md](./PROBLEMS.md)
+Full ordered problem list → [PROBLEMS.md](./PROBLEMS.md)
+
+---
+
+## Why follow NeetCode 250 daily
+
+- Covers the most important coding interview patterns
+- Begins with easier problems so beginners can build confidence
+- Progresses naturally into medium and hard problems
+- Solutions available in the three most requested languages for interviews
+- Public progress tracking keeps you accountable
+
+Whether you are preparing for software engineer interviews at Google, Amazon, Meta, Microsoft, or any product based company, this daily NeetCode 250 practice plan gives you a clear path.
 
 ---
 
