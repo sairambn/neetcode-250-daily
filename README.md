@@ -1,82 +1,50 @@
 <div align="center">
 
-# NeetCode 250 Daily Practice
+# 🔥 NeetCode 250 Daily
 
-**One problem a day** until the complete NeetCode 250 list is finished.
+### One problem a day. Real progress. Interview ready.
 
-Structured DSA and coding interview preparation. Consistency over intensity.
+[![Progress](https://img.shields.io/badge/NeetCode%20250-49%2B%20%2F%20250-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white)](./solutions)
+[![Basics](https://img.shields.io/badge/Basics-30%20%2F%2030-00C853?style=for-the-badge)](./basics)
+[![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-1E88E5?style=for-the-badge)](./solutions)
 
-[![Progress](https://img.shields.io/badge/Completed-49%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
-[![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-success?style=for-the-badge)](./solutions)
-[![Basics](https://img.shields.io/badge/Basics-30%20Questions-blue?style=for-the-badge)](./basics)
+**Structured DSA practice system built on the official NeetCode 250 list**
+
+[Solutions](./solutions) · [Basics](./basics) · [Problem List](./PROBLEMS.md) · [NeetCode](https://neetcode.io/practice)
 
 </div>
 
 ---
 
-## What this repository is
+## Why this exists
 
-This is a complete daily practice system for the official [NeetCode 250](https://neetcode.io/practice) problem list. It helps you build strong Data Structures and Algorithms skills for coding interviews through consistent daily practice.
+Random LeetCode practice fails most people.
 
-Instead of random LeetCode grinding, you get:
+This repository turns the official NeetCode 250 into a **daily system** that actually works:
 
-1. One focused problem every day
-2. Clear category progression from basics to advanced
-3. Clean reference solutions in Python, Java, and C++
-4. Public accountability through GitHub Issues
+- One focused problem every day
+- Clear category progression (Easy → Medium → Hard)
+- Clean solutions in **Python, Java, and C++**
+- Public accountability through GitHub Issues
 
-Perfect for beginners starting DSA, intermediate learners preparing for FAANG style interviews, and anyone who wants a structured NeetCode 250 roadmap.
-
----
-
-## Basic Coding Questions (30)
-
-Foundational interview questions covering Strings, Arrays, Sorting, Linked List, and Math.
-
-All solutions are available in **Python, Java, and C++** → [basics/](./basics)
-
-| Category | Count |
-|----------|-------|
-| Strings | 12 |
-| Arrays | 6 |
-| Sorting | 2 |
-| Linked List | 6 |
-| Numbers and Math | 4 |
-| **Total** | **30** |
-
-Start here if you are new to coding interviews.
+Built for beginners starting DSA and for people preparing for Google, Amazon, Meta, Microsoft, and other product companies.
 
 ---
 
-## How the daily system works
+## 📦 What's inside
 
-| Step | Action |
-|------|--------|
-| 1 | Open a new GitHub Issue with the next problem |
-| 2 | Solve it on LeetCode |
-| 3 | (Optional) Share your approach or open a PR |
-| 4 | Close the issue when done |
+| Section | Status | Link |
+|---------|--------|------|
+| **Basic Coding Questions** | 30 / 30 Complete | [basics/](./basics) |
+| **NeetCode 250 Solutions** | 49+ / 250 | [solutions/](./solutions) |
+| **Full Ordered List** | Ready | [PROBLEMS.md](./PROBLEMS.md) |
+| **Foundational Guide** | Ready | [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md) |
 
-Goal: finish all **250** NeetCode problems with steady daily practice.
-
----
-
-## Current Progress
-
-| Metric | Value |
-|--------|-------|
-| NeetCode 250 solved | 49+ / 250 |
-| Basic questions | 30 / 30 |
-| Categories covered | Arrays & Hashing · Two Pointers · Sliding Window · Stack · Trees |
-| Solutions available | [solutions/](./solutions) · [basics/](./basics) |
-| Languages | Python · Java · C++ |
-| Last updated | August 26, 2026 |
-
-Every solution folder contains clean, readable code that matches LeetCode style.
+Every solution is written cleanly in three languages and follows the same style.
 
 ---
 
-## Full NeetCode 250 Categories
+## 🗂 Categories Covered (NeetCode 250)
 
 | Category | Problems |
 |----------|----------|
@@ -102,27 +70,47 @@ Every solution folder contains clean, readable code that matches LeetCode style.
 
 ---
 
-## Getting started
+## 🚀 How to use this repo
 
-1. Finish the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md) and [basics/](./basics)
-2. Watch the official [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
-3. Pick the next problem from the ordered list
-4. Solve it, then check the reference solutions in this repo
+1. Start with the **basics** if you are new → [basics/](./basics)
+2. Follow the ordered NeetCode 250 list → [PROBLEMS.md](./PROBLEMS.md)
+3. Solve one problem a day on LeetCode
+4. Compare your solution with the clean reference code here
+5. Track progress publicly by opening and closing GitHub Issues
 
-Full ordered problem list → [PROBLEMS.md](./PROBLEMS.md)
-
----
-
-## Why follow NeetCode 250 daily
-
-- Covers the most important coding interview patterns
-- Begins with easier problems so beginners can build confidence
-- Progresses naturally into medium and hard problems
-- Solutions available in the three most requested languages for interviews
-- Public progress tracking keeps you accountable
-
-Whether you are preparing for software engineer interviews at Google, Amazon, Meta, Microsoft, or any product based company, this daily NeetCode 250 practice plan gives you a clear path.
+Watch the official playlist for explanations:  
+[NeetCode 250 YouTube Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
 
 ---
 
-Maintained by [@sairambn](https://github.com/sairambn)
+## 📈 Current Progress
+
+```text
+Basics          ████████████████████  30/30
+NeetCode 250    ████░░░░░░░░░░░░░░░░  49+/250
+Languages       Python · Java · C++
+```
+
+Last updated: August 26, 2026
+
+---
+
+## ⭐ Support the project
+
+If this repo helps you prepare for interviews:
+
+- Star the repository
+- Fork it and track your own progress
+- Share it with friends who are grinding DSA
+
+Every star motivates continued daily updates.
+
+---
+
+<div align="center">
+
+**Consistency beats intensity.**
+
+Maintained by [sairambn](https://github.com/sairambn)
+
+</div>
