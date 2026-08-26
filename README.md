@@ -6,7 +6,7 @@
 
 Structured DSA and coding interview preparation. Consistency over intensity.
 
-[![Progress](https://img.shields.io/badge/Completed-33%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
+[![Progress](https://img.shields.io/badge/Completed-41%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
 [![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-success?style=for-the-badge)](./solutions)
 
 </div>
@@ -45,11 +45,11 @@ Goal: finish all **250** NeetCode problems with steady daily practice.
 
 | Metric | Value |
 |--------|-------|
-| Problems solved | 33+ / 250 |
-| Categories covered | Arrays & Hashing · Two Pointers · Trees |
+| Problems solved | 41+ / 250 |
+| Categories covered | Arrays & Hashing · Two Pointers · Sliding Window · Trees |
 | Solutions available | [solutions/](./solutions) |
 | Languages | Python · Java · C++ |
-| Last updated | August 25, 2026 |
+| Last updated | August 26, 2026 |
 
 Every solution folder contains clean, readable code that matches LeetCode style.
 
