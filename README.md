@@ -8,6 +8,7 @@ Structured DSA and coding interview preparation. Consistency over intensity.
 
 [![Progress](https://img.shields.io/badge/Completed-49%2B%20%2F%20250-orange?style=for-the-badge)](./solutions)
 [![Languages](https://img.shields.io/badge/Python%20%7C%20Java%20%7C%20C%2B%2B-success?style=for-the-badge)](./solutions)
+[![Basics](https://img.shields.io/badge/Basics-30%20Questions-blue?style=for-the-badge)](./basics)
 
 </div>
 
@@ -28,6 +29,25 @@ Perfect for beginners starting DSA, intermediate learners preparing for FAANG st
 
 ---
 
+## Basic Coding Questions (30)
+
+Foundational interview questions covering Strings, Arrays, Sorting, Linked List, and Math.
+
+All solutions are available in **Python, Java, and C++** → [basics/](./basics)
+
+| Category | Count |
+|----------|-------|
+| Strings | 12 |
+| Arrays | 6 |
+| Sorting | 2 |
+| Linked List | 6 |
+| Numbers and Math | 4 |
+| **Total** | **30** |
+
+Start here if you are new to coding interviews.
+
+---
+
 ## How the daily system works
 
 | Step | Action |
@@ -45,9 +65,10 @@ Goal: finish all **250** NeetCode problems with steady daily practice.
 
 | Metric | Value |
 |--------|-------|
-| Problems solved | 49+ / 250 |
+| NeetCode 250 solved | 49+ / 250 |
+| Basic questions | 30 / 30 |
 | Categories covered | Arrays & Hashing · Two Pointers · Sliding Window · Stack · Trees |
-| Solutions available | [solutions/](./solutions) |
+| Solutions available | [solutions/](./solutions) · [basics/](./basics) |
 | Languages | Python · Java · C++ |
 | Last updated | August 26, 2026 |
 
@@ -81,9 +102,9 @@ Every solution folder contains clean, readable code that matches LeetCode style.
 
 ---
 
-## Getting started with NeetCode 250
+## Getting started
 
-1. Review the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md)
+1. Finish the basics → [BASIC_CODING_QUESTIONS.md](./BASIC_CODING_QUESTIONS.md) and [basics/](./basics)
 2. Watch the official [NeetCode 250 playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldOyuteC44ap08G1YvCc0Gy)
 3. Pick the next problem from the ordered list
 4. Solve it, then check the reference solutions in this repo
