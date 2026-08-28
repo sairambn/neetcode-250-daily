@@ -4,7 +4,7 @@ One problem a day until I finish the whole list.
 
 I'm using this repo to track my progress through the NeetCode 250. Solutions are in Python, Java and C++.
 
-**Progress:** 49+ / 250  
+**Progress:** 56+ / 250  
 **Basics:** 30 / 30 done
 
 ---
